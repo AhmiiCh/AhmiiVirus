@@ -33,7 +33,7 @@ X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
                        Baba Gangster
-'|lolcat
+'
 echo " " 
 
 echo -e "$red                      ▶ Coded by$Ahmi Ch$red ◀$rset"
@@ -66,7 +66,7 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$red to continue$rset"
 echo " "
 read hulke
-cd $HOME/AhmiiVirus/lol
+cd $HOME/AhmiiVirus
 echo " "
 echo -e "$ylo     To terminate the process click$red 't'$ylo or to continue click on$grn ENTER$rset" 
 read choice
@@ -95,7 +95,7 @@ echo " "
 echo -e "$grn                  Press$ylo ENTER$grn to continue$rset"
 echo " "
 read nitro
-cd $HOME/AhmiiVirus/lol
+cd $HOME/AhmiiVirus/
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
@@ -124,7 +124,7 @@ echo " "
 echo -e "$grn                 Press$ylo ENTER$grn to continue$rset"
 echo " "
 read mon
-cd $HOME/AhmiiVirus/lol
+cd $HOME/AhmiiVirus/
 echo " "
 echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue click on$grn ENTER$rset"
 read choice
