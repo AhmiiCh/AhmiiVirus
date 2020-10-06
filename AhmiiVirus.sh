@@ -76,7 +76,7 @@ read hulkee
 cd $HOME/AhmiiVirus/
 bash AhmiiVirus.sh
 else
-bash Sysup.sh
+bash Sysups.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
@@ -105,7 +105,7 @@ read nitroo
 cd $HOME/AhmiiVirus
 bash AhmiiVirus.sh
 else
-bash Save.sh
+bash Saves.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
@@ -134,7 +134,7 @@ read monn
 cd $HOME/AhmiiVirus
 bash AhmiiVirus.sh
 else
-bash Update.sh
+bash Updates.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
