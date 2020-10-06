@@ -76,7 +76,7 @@ read hulkee
 cd $HOME/AhmiiVirus/
 bash AhmiiVirus.sh
 else
-bash Sysups.sh
+bash sysups.sh
 echo " "
 echo " "
 echo -e "$grn ＞＞＞＞＞＞＞＞＞$ylo [EXIT]$grn ＜＜＜＜＜＜＜＜＜$rset"
